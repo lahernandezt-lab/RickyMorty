@@ -1,13 +1,11 @@
-# Infinity Deadpool
+# RICK AND MORTY EN LA NACHO
 
-## Execution
 Executing this project can be easily done by running it using Python:
 ```
 python.exe -m pip install -U pygame --user
 python.exe -m pip install -U unicode --user
 python.exe .\main.py
 ```
-
 ## Executable Creation
 To create an executable from the game, so you don't need to have Python installed run the following commands:
 ```
